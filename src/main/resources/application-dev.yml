@@ -1,7 +1,7 @@
 
 #database
 POSTGRES_SQL_USERNAME: postgres
-POSTGRES_SQL_PASSWORD: 
+POSTGRES_SQL_PASSWORD:
 POSTGRES_SQL_HOST: localhost
 POSTGRES_SQL_PORT: 5432
 POSTGRES_SQL_DB: email_db
@@ -14,6 +14,6 @@ ACTIVE_PROFILE: dev
 #email config
 EMAIL_HOST: smtp.gmail.com
 EMAIL_PORT: 587
-EMAIL_ID: bulimua@gmail.com
-EMAIL_PASSWORD: qgdmmirbmkdfuugp
+EMAIL_ID: @gmail.com
+EMAIL_PASSWORD: imqgdmmirbmkdfuugp
 VERIFY_EMAIL_HOST: http://localhost:${server.port}
